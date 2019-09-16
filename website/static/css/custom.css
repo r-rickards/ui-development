@@ -1,0 +1,30 @@
+/* your custom css */
+.logo {
+    width: 100px;
+}
+
+.cody {
+    width: 50px;
+    margin: 8px auto;
+    display: block;
+}
+
+.nav-home > img {
+    width: 32px;
+    height: 32px;
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
