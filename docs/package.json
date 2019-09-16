@@ -1,0 +1,17 @@
+{
+    "name": "documentation-markdown",
+    "version": "1.0.0",
+    "description": "software documentation",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "models": "node create-models.js"
+    },
+    "author": "rick@software.com",
+    "license": "ISC",
+    "dependencies": {
+        "finale-rest": "^1.0.6",
+        "mysql": "^2.17.1",
+        "sequelize-auto": "^0.4.29"
+    }
+}

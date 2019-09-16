@@ -1,0 +1,11 @@
+@hostname = localhost
+@port = 5000
+@host = {{hostname}}:{{port}}
+@http = HTTP/1.1
+@contentType = application/json
+@token = JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNTY2OTcwMDc3fQ.3ryUrBv9sNzh70EzWHG0GdAciuha2WufHlJGi30ya9s
+
+###
+
+GET http://{{host}}/music/recommendations {{http}}
+Authorization: {{token}}

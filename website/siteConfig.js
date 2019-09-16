@@ -14,8 +14,8 @@ const users = [
         caption: 'User1',
         // You will need to prepend the image path with your baseUrl
         // if it is not '/', like: '/test-site/img/image.jpg'.
-        image: '/img/undraw_open_source.svg',
-        infoLink: 'https://www.facebook.com',
+        // image: '/img/undraw_open_source.svg',
+        // infoLink: 'https://www.facebook.com',
         pinned: true
     }
 ];
@@ -95,8 +95,8 @@ const siteConfig = {
     cleanUrl: true,
 
     // Open Graph and Twitter card images.
-    ogImage: 'img/undraw_online.svg',
-    twitterImage: 'img/undraw_tweetstorm.svg',
+    // ogImage: 'img/undraw_online.svg',
+    // twitterImage: 'img/undraw_tweetstorm.svg',
 
     // For sites with a sizable amount of content, set collapsible to true.
     // Expand/collapse the links and subcategories under categories.
