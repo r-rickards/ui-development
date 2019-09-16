@@ -7,5 +7,8 @@ Documentation for Code Time
 [<img src="https://img.shields.io/twitter/url.svg?style=social&url=http%3A%2F%2Fshields.io" alt="" />
 >](https://twitter.com/software_hq)
 
+<a href="https://twitter.com/software_hq" rel="some text">![twitter](https://img.shields.io/twitter/url.svg?style=social&url=http%3A%2F%2Fshields.io)</a>
+
+
 
 Docusaurus site.
