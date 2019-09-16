@@ -2,6 +2,6 @@
 
 Documentation for Code Time
 
-https://img.shields.io/badge/software-documentation-orange
+<img src="https://img.shields.io/badge/software-documentation-orange" alt="software-documentation" />
 
 Docusaurus site.
